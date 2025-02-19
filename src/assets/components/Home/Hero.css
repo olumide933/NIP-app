@@ -1,0 +1,22 @@
+.heroContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.HeroTextContainer{
+    width: 500px;
+    h1{
+        font-size: 60px;
+        margin: 0;
+        line-height: normal;
+    }
+
+}
+
+.heroImageContainer{
+    img{
+        width: 400px;
+    }
+}

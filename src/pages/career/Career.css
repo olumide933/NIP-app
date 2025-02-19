@@ -1,0 +1,23 @@
+.careerContainer{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    /* display: flex; */
+    height: 40px;
+    width: 300px;
+}
+.careerCard{
+    height: 200px;
+    width: 300px;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    margin: 10px; 
+}
+
+.cardHoder{
+    display: flex;
+    flex-wrap: wrap;
+}
